@@ -1,4 +1,4 @@
-This repo contains our code and configurations for the **LLM - Detect AI Generated Text** competition. The summary of the solution is posted [here](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/discussion/470121). Please refer to the following sections for details on training and dependencies. 
+This repo contains our code and configurations for the **LLM - Detect AI Generated Text** competition.
 
 ## Section 1: Setup
 ### 1.1 Hardware
